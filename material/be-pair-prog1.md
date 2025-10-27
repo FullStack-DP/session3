@@ -1,4 +1,4 @@
-# Pair Programming Session 1
+# Pair Programming part 1
 
 In this pair programming session, we will apply the same principles used to create the [Pets API](https://github.com/tx00-resources-en/api-pets) to build a "Feedback API". Follow the steps below to create and test your API.
 

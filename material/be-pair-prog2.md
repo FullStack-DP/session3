@@ -1,4 +1,4 @@
-# Pair Programming Session 2
+# Pair Programming part 2
 
 In this pair programming session, we will follow similar principles used to create the [Pets API](https://github.com/tx00-resources-en/api-pets) to build a "Tour API". Follow the steps below to create, implement, and test your API.
 
