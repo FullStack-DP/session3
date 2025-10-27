@@ -55,13 +55,15 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 
 ### Afternoon: Pair Programming
 
-> I strongly recommend completing the pair activity today. I'll keep the breakout rooms open for you.
+- Submissions & [*Self Assessment*](./material/self-assesment.xlsx) 
 
-During the pair programming session, each team will create and test two APIs using Postman. We will also review "npm scripts" with examples such as `npm start`, `npm run dev` and `npm run watch` .
+- During the pair programming session, each team will create and test two APIs using Postman. We will also review "npm scripts" with examples such as `npm start`, `npm run dev` and `npm run watch` .
   - [Summary of npm scripts](./material/npm-scripts.md)
   - [Pair Programming Session, Part 1](./material/be-pair-prog1.md)
   - [Pair Programming Session, Part 2](./material/be-pair-prog2.md)
   
+> I strongly recommend completing the pair activity today. I'll keep the breakout rooms open for you.
+
 ----
 <details>
 <summary>Links used in the Lecture</summary>
