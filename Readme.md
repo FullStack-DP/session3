@@ -20,15 +20,15 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 - Morning:
   - Mini lecture (~35min)
   - `Break` (~15min)
-  - Group Activity (~35min)
-  - Mini lecture (~35min)
-  - Group Activity (~35min)
+  - Pair programming (~35min)
+  - Pair programming (~35min)
 - Lunch Break - 12:00 -13:00
 - Afternoon
   - Mini lecture (~35min)
   - `Break` (~15min)
-  - Pair programming (~35min)
-  - Pair programming (~35min)
+  - Group Activity (~35min)
+  - Mini lecture (~35min)
+  - Group Activity (~35min)
 
 -----
 ### Topics
@@ -37,8 +37,21 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 - Middleware
 
 -----
-### Morning
+###  Morning: Pair Programming
 
+- During the pair programming session, each team will create and test two APIs using Postman. We will also review "npm scripts" with examples such as `npm start`, `npm run dev` and `npm run watch` .
+  - [Summary of npm scripts](./material/npm-scripts.md)
+  - [Pair Programming Session, Part 1](./material/be-pair-prog1.md)
+  - [Pair Programming Session, Part 2](./material/be-pair-prog2.md)
+  
+> I strongly recommend completing the pair activity today. I'll keep the breakout rooms open for you.
+
+
+-----
+
+### Afternoon
+
+- Submissions & [*Self Assessment*](./material/self-assesment.xlsx) 
 - ~~Draw.io~~
 - We'll explore **middleware** and the **Model-View-Controller** (MVC) pattern for our APIs.  
   - [Review of the spread operator](./material/spread.md)
@@ -49,20 +62,6 @@ We'll follow a 5-step learning cycle as shown in the figure below:
   - Middleware
     - [Summary](./material/be-middleware.md)
     - [Activity 2](./material/be-middleware-activity.md)
-  
-
------
-
-### Afternoon: Pair Programming
-
-- Submissions & [*Self Assessment*](./material/self-assesment.xlsx) 
-
-- During the pair programming session, each team will create and test two APIs using Postman. We will also review "npm scripts" with examples such as `npm start`, `npm run dev` and `npm run watch` .
-  - [Summary of npm scripts](./material/npm-scripts.md)
-  - [Pair Programming Session, Part 1](./material/be-pair-prog1.md)
-  - [Pair Programming Session, Part 2](./material/be-pair-prog2.md)
-  
-> I strongly recommend completing the pair activity today. I'll keep the breakout rooms open for you.
 
 ----
 <details>
