@@ -17,27 +17,27 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 -----
 ### Session Timeline 
 
-- Morning:
-  - Mini lecture (~35min)
-  - `Break` (~15min)
-  - Pair programming (~35min)
-  - Pair programming (~35min)
-- Lunch Break - 12:00 -13:00
-- Afternoon
-  - Mini lecture (~35min)
-  - `Break` (~15min)
-  - Group Activity (~35min)
-  - Mini lecture (~35min)
-  - Group Activity (~35min)
+- Mini lecture (~35min)
+- `Break` (~15min)
+- Pair programming (~35min)
+- Pair programming (~35min)
+- `Break` (~15min)
+- Mini lecture (~35min)
+- `Break` (~15min)
+- Group Activity (~35min)
+- Mini lecture (~35min)
+- Group Activity (~35min)
 
 -----
 ### Topics
 
 - Model-View-Controller
 - Middleware
+- About Master's thesis: You can choose supervisor
+
 
 -----
-###  Morning: Pair Programming
+###  Pair Programming
 
 - During the pair programming session, each team will create and test two APIs using Postman. We will also review "npm scripts" with examples such as `npm start`, `npm run dev` and `npm run watch` .
   - [Summary of npm scripts](./material/npm-scripts.md)
@@ -49,7 +49,7 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 
 -----
 
-### Afternoon
+### Model View Controller
 
 - Submissions & [*Self Assessment*](./material/self-assesment.xlsx) 
 - ~~Draw.io~~
